@@ -1,0 +1,16 @@
+age,blood_pressure,glucose_level,heart_rate,bmi,symptom_fever,symptom_cough,symptom_fatigue,symptom_pain,diagnosis
+25,120,90,72,22,0,0,0,0,Normal
+45,150,110,88,29,0,0,1,1,Hypertension
+50,130,160,85,31,0,0,1,0,Diabetes
+60,140,180,95,34,0,0,1,1,Diabetes
+35,110,95,70,23,1,1,1,0,Flu
+40,118,100,75,25,1,1,1,1,Flu
+55,160,140,100,32,0,0,1,1,Heart Disease
+65,170,150,105,35,0,0,1,1,Heart Disease
+30,115,92,74,24,0,0,0,0,Normal
+48,145,120,90,30,0,0,1,0,Hypertension
+52,135,155,88,29,0,0,1,0,Diabetes
+58,150,165,98,33,0,0,1,1,Heart Disease
+28,118,96,76,23,1,1,1,0,Flu
+32,122,98,78,24,0,1,0,0,Normal
+42,140,130,85,28,0,0,1,1,Hypertension
