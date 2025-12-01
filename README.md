@@ -4,7 +4,7 @@ This project predicts possible diseases based on patient symptoms and health par
 It is built using **Machine Learning + Streamlit** and deployed as a live web app.
 
 🔗 **Live Demo:**  
-👉 https://YOUR-STREAMLIT-APP-LINK
+👉 https://healthcarerecommendationsystem-3qtlbrzegqb4k6p2teqxpt.streamlit.app/
 
 ---
 
